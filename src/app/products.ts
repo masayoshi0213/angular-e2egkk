@@ -24,6 +24,12 @@ export const products = [
     price: 299,
     description: '',
   },
+  {
+    id: 4,
+    name: '郁美の毛',
+    price: 999999999,
+    description: 'unti',
+  },
 ];
 
 /*
